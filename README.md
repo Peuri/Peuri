@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-I'm a full-stack developer from Turku, Finland. I'm familiar with Python, Javascript and CSS.
+🇫🇮 🇬🇧 full-stack developer from Turku, Finland. I'm familiar with Python, Javascript and CSS.
 <br>
 
 ## 💻 Tech Stack
@@ -53,7 +53,9 @@ I'm a full-stack developer from Turku, Finland. I'm familiar with Python, Javasc
 
 ## 📬 Get in Touch
 
-Feel free to reach out via [ppeuri91@gmail.com](mailto:ppeuri91@gmail.com)
+I'm always open to new opportunities. If you have a project in mind or would like my help with your website, feel free to contact me. We can discuss how we can collaborate to make your project a success. 
+
+You can reach me at [ppeuri91@gmail.com](mailto:ppeuri91@gmail.com)
 
 
 
