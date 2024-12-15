@@ -1,6 +1,8 @@
-## Hi there 👋
+## About me 
 <br>
+
 🇫🇮 🇬🇧 full-stack developer from Turku, Finland. I'm familiar with Python, Javascript and CSS.
+
 <br>
 
 ## 💻 Tech Stack
