@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://d-5hdn.vercel.app/api/top-langs/?username=Peuri&count_private=true&layout=pie)](https://github.com/Peuri)
+
 <!--
 **Peuri/Peuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
