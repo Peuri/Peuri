@@ -55,7 +55,8 @@
 
 ## 📬 Get in Touch
 
-I'm always open to new opportunities. If you have a project in mind or would like my help with your website, feel free to contact me. We can discuss how we can collaborate to make your project a success. 
+I'm always open to new opportunities. If you have a project in mind or would like my help with your website, feel free to contact me. 
+We can discuss how we can collaborate to make your project a success. 
 
 You can reach me at [ppeuri91@gmail.com](mailto:ppeuri91@gmail.com)
 
