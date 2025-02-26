@@ -51,7 +51,7 @@
 
 <br>
 
-[![Top Langs](https://d-5hdn.vercel.app/api/top-langs/?username=Peuri&count_private=true&layout=pie)](https://github.com/Peuri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peuri)](https://github.com/Peuri)
 
 ## 📬 Get in Touch
 
