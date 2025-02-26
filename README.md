@@ -51,7 +51,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peuri&layout=compact&langs_count=10&hide=python)](https://github.com/Peuri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peuri&layout=compact&langs_count=8&hide=shell,nushell,batchfile, powershell)](https://github.com/Peuri)
 
 ## 📬 Get in Touch
 
