@@ -1,7 +1,7 @@
 ## About me 
 <br>
 
-:finland: :uk: Full-stack developer from Turku, Finland. I'm familiar with Python, JavaScript and CSS.
+<img src="https://flagcdn.com/w40/fi.png" height="14"> <img src="https://flagcdn.com/w40/gb.png" height="14"> Full-stack developer from Turku, Finland.
 
 <br>
 
