@@ -1,7 +1,7 @@
 ## About me 
 <br>
 
-🇫🇮 🇬🇧 Full-stack developer from Turku, Finland. I'm familiar with Python, JavaScript and CSS.
+:finland: :uk: Full-stack developer from Turku, Finland. I'm familiar with Python, JavaScript and CSS.
 
 <br>
 
